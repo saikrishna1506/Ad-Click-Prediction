@@ -35,7 +35,7 @@ To run the code in this repository, follow these steps:
 Clone the repository to your local machine.
 Run the main script or Jupyter notebook to execute the code.
 # Contributors
-CHINTHA SAIKRISHNA
+CHINTHA SAIKRISHNA 
 DAKURI SAIRAM REDDY
 DESHARAJU SAI ANUPAM
 ANDE SRAVAN KUMAR
